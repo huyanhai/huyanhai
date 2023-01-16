@@ -29,5 +29,5 @@ I love Front End technologys.
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyanhai&show_icons=true&theme=radical)
 </div>

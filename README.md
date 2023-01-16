@@ -26,8 +26,3 @@ I love Front End technologys.
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
 ![Rollup](https://img.shields.io/badge/-Rollup-ef3335?logo=rollup.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-
-</p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyanhai&show_icons=true&theme=radical)
-</div>
